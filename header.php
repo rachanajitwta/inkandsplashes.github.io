@@ -229,7 +229,7 @@
 					  </div>
 					  <div class="form-group"> 
 						<div class="col-sm-offset-3 col-sm-9">
-						  <button type="submit" class="btn btn-primary">Login</button>
+						  <button type="submit" class="btn btn-primary"><a href="about_us.php" style="color:white">Login</a></button>
 						  <button type="submit" class="btn btn-primary">Cancel</button>
 						</div>
 					  </div>
